@@ -3,7 +3,7 @@
 I'm a software engineer who loves to tinker and play around with things. Many of my repositories are experiments or demos for technologies that I'm interested in. I believe that the web should be accessible to everyone, and I have made it a goal to educate others on building an accessible web. 
 
 ### Content
-I write content frequently, which can be found on either [my website](https://www.walkermakes.com/) or [dev.to.](https://dev.to/colewalker) I tend to write about whatever I'm interested in, or tips about building a more accessible website. 
+I write content frequently, which can be found on [dev.to.](https://dev.to/colewalker) I tend to write about whatever I'm interested in, or tips about building a more accessible website. 
 
 
 ### Languages
